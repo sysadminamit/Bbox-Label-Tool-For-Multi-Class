@@ -1,0 +1,6 @@
+bike
+car
+truck
+auto
+bus
+numberplate
